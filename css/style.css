@@ -5,3 +5,17 @@ body {
 h1, h2, p, tr, label, li {
     color: #FFFFFF;
 }
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+}
+
+.primeiraClasse {
+    color: aqua;
+}
+
+.primeiraClasse:hover {
+    color: rebeccapurple;
+    text-decoration: dashed;
+}
